@@ -38,6 +38,7 @@ select {
   gap: 8px;
   width: 780px;
   padding: 36px;
+  padding-bottom:18px;
   border-radius: 32px;
   background-color: #444;
   top: 20px;
